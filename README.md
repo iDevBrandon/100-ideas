@@ -4,5 +4,5 @@ I'd create 100 service projects with my frontend skills. Burn your early & mid 2
 
 1. OXINION, To share opinions/complains based on location.
 2. RoboTaxi, Autonomous driving service 
-3. cheapify, Find cheap stuff around you.
+3. Cheapify, Find cheap stuff around you.
 4.
