@@ -9,3 +9,4 @@ I'd create 100 service projects with my frontend skills. Burn your early & mid 2
 5. AutoTrade, Better trade as a stock trader ex)propelor.com or etfdb.com
 6. xTrade, Action system with sell and buy realtime price for 2nd hand items ex) stockx.com
 7. indecisive, What to do/eat/watch today
+8. Take me home, Goods Exchange/ free giveaway 
