@@ -6,3 +6,4 @@ I'd create 100 service projects with my frontend skills. Burn your early & mid 2
 2. RoboTaxi, Autonomous driving service ex)Uber.com
 3. Cheapify, Find cheap stuff around you. ex)???
 4. Attacker, Track your dream until you take it over and know your place. ex)Monday.com
+5. AutoTrade, Better trade as a stock trader
