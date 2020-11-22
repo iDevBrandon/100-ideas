@@ -14,8 +14,7 @@ I'd create 100 service projects with my frontend skills. Burn your early & mid 2
 10. Refillity, A subscription service that offers refrigerated boxes with vision sensors. Whenever you select your item and want grocerie and it will be delivered by a drone at your home. ex) airmap.com
 
 11. Moxie, A dating app that match you who bought the same ticket for movie. When you match with someone who has the same tasty of movie, you can go watch with someone else ex)tinder.com
-
-12.
+12. Pay with Visa. Buy Now, Pay later. Pay your item when you confirm to accept it in 14 days. ex) klarna.com for Visa, Inc.
 13.
 14.
 15.
