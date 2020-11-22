@@ -15,8 +15,8 @@ I'd create 100 service projects with my frontend skills. Burn your early & mid 2
 
 11. Moxie, A dating app that match you who bought the same ticket for movie. When you match with someone who has the same tasty of movie, you can go watch with someone else ex)tinder.com
 12. Pay with Visa. Buy Now, Pay later. Pay your item when you confirm to accept it in 14 days. ex) klarna.com for Visa, Inc.
-13. 
-14.
+13. AR Graffiti. Using AR you can “tag” any location in the world and paint on it. It can only be seen holding a phone up to it.
+14. Delivery service from your local supermarket. ex) A project for Walmart
 15.
 16.
 17.
