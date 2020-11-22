@@ -11,9 +11,10 @@ I'd create 100 service projects with my frontend skills. Burn your early & mid 2
 7. indecisive, What to do/eat/watch today
 8. Take me home, Goods Exchange/ free giveaway 
 9. Smart Bin, Make your own bin and connect internet after throwing rubbish and get reward like German REWE recycling ex) for Waste Management, Inc.
-10.
+10. Refillity, A subscription service that offers refrigerated boxes with vision sensors. Whenever you select your item and want grocerie and it will be delivered by a drone at your home. ex) airmap.com
 
-11.
+11. Moxie, A dating app that match you who bought the same ticket for movie. When you match with someone who has the same tasty of movie, you can go watch with someone else ex)tinder.com
+
 12.
 13.
 14.
@@ -112,3 +113,5 @@ I'd create 100 service projects with my frontend skills. Burn your early & mid 2
 98.
 99.
 100.
+
+Extra. A smart TV for everyone(esp, ppl with glasses). TV offers to your eyes to show clearly without wearing glasses(Vision control)
