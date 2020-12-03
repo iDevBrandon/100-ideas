@@ -18,8 +18,8 @@ I'd create 100 service projects with my frontend skills. Burn your early & mid 2
 13. AR Graffiti. Using AR you can “tag” any location in the world and paint on it. It can only be seen holding a phone up to it.
 14. Delivery service from your local supermarket. ex) A project for Walmart, Inc.
 15. ExBnB, based on GPS coordinates, will tell you about interesting historical events/facts that occurred at your current location. ex) AirBnB experience
-16. Nike for run, Running AI app synced with your Nike/google maps. ex) nike.com/nrc-app for Nike, Inc.
-17.
+16. Nike for run, Running AI app synced with your Nike/google maps with reward system. ex) nike.com/nrc-app for Nike, Inc.
+17. StudyParty, share what you study/ records how long you studied today.
 18.
 19.
 20.
