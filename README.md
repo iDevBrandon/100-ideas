@@ -20,7 +20,7 @@ I'd create 100 service projects with my frontend skills. Burn your early & mid 2
 15. ExBnB, based on GPS coordinates, will tell you about interesting historical events/facts that occurred at your current location. ex) AirBnB experience
 16. Nike for run, Running AI app synced with your Nike/google maps with reward system. ex) nike.com/nrc-app for Nike, Inc.
 17. StudyParty, share what you study/ records how long you studied today.
-18. Theme store like https://themes.shopify.com/
+18. Theme store like https://themes.shopify.com/ or https://themeforest.net/
 19.
 20.
 
