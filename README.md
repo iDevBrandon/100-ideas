@@ -21,7 +21,7 @@ I'd create 100 service projects with my frontend skills. Burn your early & mid 2
 16. Nike for run, Running AI app synced with your Nike/google maps with reward system. ex) nike.com/nrc-app for Nike, Inc.
 17. StudyParty, share what you study/ records how long you studied today.
 18. Theme store like https://themes.shopify.com/ or https://themeforest.net/
-19.
+19. StockBot to nofity when the price hits your target with messager apps
 20.
 
 21.
