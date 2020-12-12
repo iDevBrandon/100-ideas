@@ -22,7 +22,7 @@ I'd create 100 service projects with my frontend skills. Burn your early & mid 2
 17. StudyParty, share what you study/ records how long you studied today.
 18. Theme store like https://themes.shopify.com/ or https://themeforest.net/
 19. StockBot to nofity when the price hits your target with messager apps
-20.
+20. MiniStock, Allow you buy fractional shares
 
 21.
 22.
