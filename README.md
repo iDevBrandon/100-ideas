@@ -26,8 +26,8 @@ LBS Platform like facedrive : Uber, Uber Eats, Tinder,
 19. StockBot to nofity when the price hits your target with messager apps
 20. MiniStock, Allow you buy fractional shares
 
-21.
-22.
+21. oLens with AI + AR + LBS like https://www.letsee.io https://www.youtube.com/watch?v=YAcMRZUXibw
+22. Carelabs Goodoc http://www.carelabs.co.kr/
 23.
 24.
 25.
