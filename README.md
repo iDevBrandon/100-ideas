@@ -28,7 +28,7 @@ LBS Platform like facedrive : Uber, Uber Eats, Tinder,
 
 21. oLens with AI + AR + LBS like https://www.letsee.io https://www.youtube.com/watch?v=YAcMRZUXibw
 22. Carelabs Goodoc http://www.carelabs.co.kr/
-23.
+23. ProjectX. You will have to put practice deposit and if you complete your mission, you will get refund or will be donoated in your community
 24.
 25.
 26.
