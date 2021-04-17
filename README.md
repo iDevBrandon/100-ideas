@@ -2,18 +2,19 @@
 
 I'd create 100 service projects with my frontend skills. Burn your early & mid 20s now with building projects. Once it starts taking off, I won't have time to think of ideas. So, you have to do everything in 20s. By simply following your ideas, your project will redirect you where you want to be as you already set 10yrs amount service ideas. 
 
-LBS Platform like facedrive : Uber, Uber Eats, Tinder, 
+LBS Platform like facedrive, Uber, Tinder, 
 
 1. OXINION, To share opinions/complains based on location. ex)icbox.info
-2. RoboTaxi, Autonomous driving service ex)Uber.com for Tesla, Inc.
-3. Cheapify, Find cheap stuff around you. ex)???
-4. Attacker, Track your dream until you take it over and know your place. ex)Monday.com
-5. AutoTrade, Better stock trade as a stock trader ex)propelor.com or etfdb.com
-6. xTrade, Action system with sell and buy realtime price for 2nd hand items ex) stockx.com
-7. indecisive, What to do/eat/watch today
-8. Take me home, Goods Exchange/ free giveaway 
-9. Smart Bin, Make your own bin and connect internet after throwing rubbish and get reward like German REWE recycling ex) for Waste Management, Inc.
-10. Refillity, A subscription service that offers refrigerated boxes with vision sensors. Whenever you select your item and want grocerie and it will be delivered by a drone at your home. ex) airmap.com
+2. WM App like Rubicon[https://www.rubicon.com/] We collect trash for you and share the profit when we sell your item on our website
+3. RoboTaxi, Autonomous driving service for entertainment ex)Uber.com for Tesla, Inc.
+4. Cheapify, Find cheap stuff around you. ex)???
+5. Attacker, Track your dream until you take it over and know your place. ex)Monday.com
+6. AutoTrade, Better stock trade as a stock trader ex)propelor.com or etfdb.com
+7. xTrade, Action system with sell and buy realtime price for 2nd hand items ex) stockx.com
+8. indecisive, What to do/eat/watch today
+9. Take me home, Goods Exchange/ free giveaway 
+10. Smart Bin, Make your own bin and connect internet after throwing rubbish and get reward like German REWE recycling ex) for Waste Management, Inc.
+11. Refillity, A subscription service that offers refrigerated boxes with vision sensors. Whenever you select your item and want grocerie and it will be delivered by a drone at your home. ex) airmap.com
 
 11. Moxie, A dating app that match you who bought the same ticket for movie. When you match with someone who has the same tasty of movie, you can go watch with someone else ex)tinder.com
 12. Pay with Visa. Buy Now, Pay later. Pay your item when you confirm to accept it in 14 days. ex) klarna.com for Visa, Inc.
