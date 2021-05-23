@@ -30,7 +30,7 @@ LBS Platform like facedrive, Uber, Tinder,
 21. oLens with AI + AR + LBS like https://www.letsee.io https://www.youtube.com/watch?v=YAcMRZUXibw
 22. Carelabs Goodoc http://www.carelabs.co.kr/
 23. ProjectX. You will have to put practice deposit and if you complete your mission, you will get refund or will be donoated in your community
-24.
+24. Collaboration(colabo + coporation). like ad awards sites. You offer ideas to companies(S&p 500). For example, no.2 to WM  https://www.youtube.com/watch?v=l4Cp8WR85Ao&t=6s
 25.
 26.
 27.
