@@ -31,7 +31,7 @@ LBS Platform like facedrive, Uber, Tinder,
 22. Carelabs Goodoc http://www.carelabs.co.kr/
 23. ProjectX. You will have to put practice deposit and if you complete your mission, you will get refund or will be donoated in your community
 24. Collaboration(colabo + coporation). like ad awards sites. You offer ideas to companies(S&p 500). For example, no.2 to WM  https://www.youtube.com/watch?v=l4Cp8WR85Ao&t=6s
-25.
+25. Startup-mvp. Developers create a lot of projects that can be someone's business idea for MVP. developer can sell thier projects and non-developer can buy that code 
 26.
 27.
 28.
