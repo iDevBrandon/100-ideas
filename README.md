@@ -32,7 +32,7 @@ LBS Platform like facedrive, Uber, Tinder,
 23. ProjectX. You will have to put practice deposit and if you complete your mission, you will get refund or will be donoated in your community
 24. Collaboration(colabo + coporation). like ad awards sites. You offer ideas to companies(S&p 500). For example, no.2 to WM  https://www.youtube.com/watch?v=l4Cp8WR85Ao&t=6s
 25. Startup-mvp. Developers create a lot of projects that can be someone's business idea for MVP. developer can sell thier projects and non-developer can buy that code 
-26.
+26. Post world's ongoing problems and ask for solutions. ex) how to reduce plastic bottles? get the answers by users  
 27.
 28.
 29.
